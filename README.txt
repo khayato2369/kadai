@@ -1,4 +1,4 @@
-１ssh ec2-user@54.90.120.177 -i C:\Users\ktc\Downloads\kadailey.pem
+１ssh ec2-user@54.90.120.177 -i C:\Users\ktc\Downloads\0903.pem
 ２sudo yum install vim -y
 ３vim ~/.vimrc
 set number
